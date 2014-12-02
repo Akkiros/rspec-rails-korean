@@ -1,5 +1,8 @@
 # Rspec getting started
 
+##### 참고
+http://everydayrails.com/2012/03/19/testing-series-rspec-models-factory-girl.html , http://www.relishapp.com/rspec/rspec-rails/v/3-1/docs
+
 ### 설치
 http://everydayrails.com/2012/03/12/testing-series-rspec-setup.html
 
